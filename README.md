@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal was to develop a recurrent network model that achieves the closest possible prediction of average daily temperature (expressed in degrees Fahrenheit) to the real values observed by measuring stations. This assignment was given to us in college as a competition in which I was able to place first 🎉.
+The goal was to develop a recurrent network model that achieves the closest possible prediction of average daily temperature (expressed in degrees Fahrenheit) to the real values observed by measuring stations. This assignment was given to us in college as a competition in which I was able to place first 🎉. Importantly, by design, only single RNN models (e.g., LSTM, GRU) could be used in the competition, with no other classification methods or combined models, e.g., CNN and RNN, etc. It was not was also allowed to use a combination of models.
 
 ## Data
 
